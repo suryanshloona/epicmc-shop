@@ -26,7 +26,21 @@ nav a {
   text-decoration: none;
   font-weight: bold;
 }
+.discord-btn {
+  padding: 12px 24px;
+  background: #5865F2;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 0 10px #5865F2;
+}
 
+.discord-btn:hover {
+  background: #4752C4;
+}
 section {
   padding: 30px;
 }
